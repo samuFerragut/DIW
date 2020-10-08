@@ -39,7 +39,7 @@ li{
     height: 48px;
 }
 
-li a {
+.nav{
     display: block;
     color: white;
     font-size: 130%;
