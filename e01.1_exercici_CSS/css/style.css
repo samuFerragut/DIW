@@ -1,0 +1,25 @@
+*{
+    position: relative;
+    left: 150px;
+    
+}
+header{
+    width: 1000px;
+    height: 120px;
+    background-image: url(../imatges/logo.png);
+    background-repeat: no-repeat;
+    background-size: 190px;
+    background-color: #210439;
+}
+
+
+header div{
+    color: white;
+    position: relative;
+    left: 500px;
+}
+
+header div p{
+    position: relative;
+    left: 40px;
+}
