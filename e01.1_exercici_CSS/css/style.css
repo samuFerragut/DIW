@@ -110,3 +110,27 @@ tr:nth-child(1){
     border-top: black solid 1px;
     border-bottom: black solid 1px;
 }
+
+footer{
+    height: 100px;
+    background-color: #210439;
+    position: relative;
+    top: 360px;
+}
+
+footer>p{
+    color: white;
+}
+#left{
+    text-align: left;
+    position: relative;
+    bottom: 350px;
+    left: 10px;
+}
+
+#right{
+    text-align: right;
+    position: relative;
+    bottom: 310px;
+    right: 20px;
+}
